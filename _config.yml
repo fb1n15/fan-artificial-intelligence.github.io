@@ -19,7 +19,7 @@ avatar: https://cdn.pixabay.com/photo/2018/12/14/15/46/panda-3875289_960_720.jpg
 footer-links:
   dribbble:
   email: fb1n15@soton.ac.uk
-  facebook: https://www.facebook.com/fan.bi.96?ref=bookmarks
+  facebook: fan.bi.96
   flickr:
   github: fb1n15
   instagram:
@@ -27,7 +27,7 @@ footer-links:
   pinterest:
   rss: # just type anything here for a working RSS icon
   twitter: Chandler198908
-  stackoverflow: https://stackoverflow.com/users/7060068/fan-bi
+  stackoverflow: users/7060068/fan-bi
   youtube: # channel/<your_long_string> or user/<user-name>
   googleplus: # anything in your profile username that comes after plus.google.com/
 
