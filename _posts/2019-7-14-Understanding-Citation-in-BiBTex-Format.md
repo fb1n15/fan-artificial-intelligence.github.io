@@ -46,3 +46,9 @@ Here are some common entry types.
 
 **unpublished**
 > A document that hasn't been formally published.
+
+----
+
+references:
+- <http://newton.ex.ac.uk/tex/pack/bibtex/btxdoc/node6.html>
+- <https://www.openoffice.org/bibliographic/bibtex-defs.html>
