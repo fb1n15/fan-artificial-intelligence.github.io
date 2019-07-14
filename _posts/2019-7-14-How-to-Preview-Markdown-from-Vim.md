@@ -13,3 +13,7 @@ I map `<F5>` to a command that saves the current file and open it in Chrome:
 ```
 autocmd BufEnter *.md exe 'noremap <F5> :w <bar> silent ! /Applications/Google\ Chrome.app/Contents/MacOS/Google\ Chrome %:p<CR>' 
 ```
+
+----
+
+Reference: <https://stackoverflow.com/questions/9212340/is-there-a-vim-plugin-for-previewing-markdown-files>
