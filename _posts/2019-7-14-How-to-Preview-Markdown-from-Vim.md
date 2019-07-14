@@ -1,4 +1,3 @@
-# How to preview a markdown file from Vim using Google Chrome
 
 System: MacOS Mojave. Other OS can refer to this as well, as long as the Vim command is changed accordingly.
 
@@ -8,7 +7,7 @@ Download this extension and check "Allow access to file URLs" in chrome://extens
 
 ## Map a key in Vim to pen the file with Chrome
 
-I map `<F5>` to a command that save the current file and open the it in Chrome:
+I map `<F5>` to a command that saves the current file and open it in Chrome:
 
 
 ```
